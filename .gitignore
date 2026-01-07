@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/FinalBuild/eclipseBox Installer.exe
+/FinalBuild/evademcinstaller.exe
+/FinalBuild/evademcinstaller.exe
+
+# fuck you man just push
+*.exe
+FinalBuild/
+/FinalBuild/evademcinstaller.exe
+/FinalBuild/evademcinstaller.exe
