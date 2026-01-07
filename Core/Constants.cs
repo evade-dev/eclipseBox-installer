@@ -10,7 +10,7 @@
 
         // Modpack (Exported as .mrpack from Prism)
         // MAKE SURE to change the dl=0 to dl=1 for direct download when using a dropbox link
-        public const string ModpackUrl = "https://www.dropbox.com/scl/fi/pja1rj96y1o94jvvvvf1l/MyModpack.mrpack?rlkey=033f5r133sl8mlethvhyphwnt&st=cmby9yrv&dl=1";
+        public const string ModpackUrl = "URL for modpack goes here";
 
         public const string InstallFolderName = "eclipseBox";
         public const string LauncherExecutable = "PrismLauncher.exe";

@@ -1,6 +1,6 @@
 # eclipseBox Installer
 
-**Automated installer that downloads Prism Launcher, JRE 21, and our modpack to create a portable Minecraft instance.**
+**Automated installer that downloads Prism Launcher, JRE 21, and my modpack to create a portable Minecraft instance.**
 
 ### What this does
 This program handles the setup so you don't have to manually install and configure Prism Launcher or Java. It will:
@@ -55,6 +55,7 @@ If you see a blue popup:
 2. Click **"Run anyway"**.
 
 ---
+
 ### Credits & Legal
 This installer is a fan-made utility. It is not affiliated with, endorsed by, or connected to **Mojang Studios**, **Microsoft**, the **Prism Launcher Team**, or **Eclipse Adoptium**.
 
